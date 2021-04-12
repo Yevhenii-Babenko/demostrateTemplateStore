@@ -1,0 +1,1 @@
+# demostrateTemplateStore
